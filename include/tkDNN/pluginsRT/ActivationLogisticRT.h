@@ -1,8 +1,8 @@
-#include<cassert>
+#include <cassert>
 #include "../kernels.h"
 #include <NvInfer.h>
 #include <vector>
-#include <utils.h>
+#include "../utils.h"
 
 namespace nvinfer1 {
 
